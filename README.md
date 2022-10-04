@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="60px" height="60px">
 
 <!--
 **kultzak/kultzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
